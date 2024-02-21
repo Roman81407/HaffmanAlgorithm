@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbb77f2d-5896-465e-a993-75e31cc90d42" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HaffmanAlgorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fileCoder.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fileDecoder.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fileOutputDecoderText.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/penzgtu/haffmanAlgorithm/IO/ReaderOfFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/penzgtu/haffmanAlgorithm/IO/WriterOfFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/penzgtu/haffmanAlgorithm/dataStruct/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/penzgtu/haffmanAlgorithm/dataStruct/PriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/penzgtu/haffmanAlgorithm/dataStruct/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/penzgtu/haffmanAlgorithm/haffman/HaffmanCoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/penzgtu/haffmanAlgorithm/haffman/HaffmanCoderMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/penzgtu/haffmanAlgorithm/haffman/HaffmanDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/penzgtu/haffmanAlgorithm/haffman/HaffmanDecoderMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/penzgtu/haffmanAlgorithm/haffman/Handler.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2R3MAo2Ff6qP25MYAaIJkzricT1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Work/Java/HaffmanAlgorithm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Work\Java\HaffmanAlgorithm" />
+      <recent name="D:\Work\Java\HaffmanAlgorithm\src\ru\penzgtu" />
+      <recent name="D:\Work\Java\HaffmanAlgoritm\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Work\Java\HaffmanAlgorithm\src\ru\penzgtu" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ru.penzgtu.haffmanAlgorithm.haffman.HaffmanDecoderMain">
+    <configuration name="HaffmanCoderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.penzgtu.haffman.HaffmanCoderMain" />
+      <module name="HaffmanAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.penzgtu.haffman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HaffmanDecoderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.penzgtu.haffman.HaffmanDecoderMain" />
+      <module name="HaffmanAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.penzgtu.haffman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ru.penzgtu.haffmanAlgorithm.haffman.HaffmanCoderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.penzgtu.haffmanAlgorithm.haffman.HaffmanCoderMain" />
+      <module name="HaffmanAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.penzgtu.haffmanAlgorithm.haffman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ru.penzgtu.haffmanAlgorithm.haffman.HaffmanDecoderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.penzgtu.haffmanAlgorithm.haffman.HaffmanDecoderMain" />
+      <module name="HaffmanAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.penzgtu.haffmanAlgorithm.haffman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ru.penzgtu.haffmanAlgorithm.haffman.HaffmanDecoderMain" />
+        <item itemvalue="Application.ru.penzgtu.haffmanAlgorithm.haffman.HaffmanCoderMain" />
+        <item itemvalue="Application.HaffmanCoderMain" />
+        <item itemvalue="Application.HaffmanDecoderMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbb77f2d-5896-465e-a993-75e31cc90d42" name="Changes" comment="" />
+      <created>1686474171232</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686474171232</updated>
+      <workItem from="1686474172674" duration="99000" />
+      <workItem from="1686474284050" duration="278000" />
+      <workItem from="1686474616701" duration="552000" />
+      <workItem from="1686475224404" duration="4000" />
+      <workItem from="1708520766804" duration="489000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
